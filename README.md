@@ -1,7 +1,7 @@
 # Architecture Microservices avec Spring Boot
 
 ## Description
-Ce projet est une démonstration d'une **architecture microservices** implémentée avec **Spring Boot**.  
+Ce projet est une démonstration d'une **architecture microservices** implémentée avec **Spring Boot** ce n'est pas un projet complet.  
 Il inclut plusieurs microservices qui communiquent entre eux ainsi qu'une application web pour l'interface utilisateur.  
 L'architecture est modulable, évolutive et conçue pour être maintenable facilement.
 
