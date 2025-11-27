@@ -39,7 +39,7 @@ Avant de lancer le projet, assurez-vous d’avoir installé :
 
 ## Démarrage
 
-### Exécution des services individuellement
+## Exécution des services individuellement
 1. Aller dans le dossier du microservice (ex : `employee-service`)  
 2. Lancer le service avec Maven :
 ```bash
