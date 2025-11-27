@@ -1,0 +1,25 @@
+package com.example.api.model;
+
+import jakarta.persistence.Entity;
+import jakarta.persistence.GeneratedValue;
+import jakarta.persistence.GenerationType;
+import jakarta.persistence.Id;
+import jakarta.persistence.Table;
+import lombok.Data;
+
+@Data
+@Entity
+@Table(name = "users")
+public class AppUser {
+	
+	@Id
+	@GeneratedValue(strategy = GenerationType.IDENTITY)
+	private Long id;
+	
+	private String username;
+	
+	private String password;
+	
+	private String role; // ex: ROLE_USER ou ROLE_ADMIN
+	
+}
