@@ -50,15 +50,15 @@ mvn spring-boot:run
 docker-compose up --build
 
 ## Accéder aux applications
-API Gateway : http://localhost:9001
-Webapp : http://localhost:9002 
+- API Gateway : http://localhost:9001
+- Webapp : http://localhost:9002 
 
 ## Configuration
 Les fichiers application.properties contiennent les configurations propres à chaque service.
 
 
-##Auteur
+## Auteur
 
-Wilberson Orase developpeur
-GitHub : https://github.com/orasewilberson
-Email : orasewilberson@gmail.com
+- Wilberson Orase developpeur
+- GitHub : https://github.com/orasewilberson
+- Email : orasewilberson@gmail.com
